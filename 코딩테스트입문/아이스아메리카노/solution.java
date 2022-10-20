@@ -10,6 +10,6 @@ class Solution {
         // int[] answer = {num,money};
         // return answer;
 
-        return new int[] answer={money/coffee,money%coffee};
+        return new int[] {money/coffee,money%coffee};
     }
 }
